@@ -1,7 +1,7 @@
 Hello this is the first line of text
 
-<<<<<<< HEAD
+
 I have made some changes
-=======
+
 second line is added by developer dev
->>>>>>> main
+
