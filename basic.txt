@@ -9,3 +9,6 @@ branch3
 changes made on branch3
 
 git added different changes on main branch
+changes made on branch3
+
+I had added some more changes on branches3
