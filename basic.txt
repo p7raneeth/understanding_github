@@ -7,3 +7,5 @@ second line is added by developer dev
 
 branch3
 changes made on branch3
+
+git added different changes on main branch
